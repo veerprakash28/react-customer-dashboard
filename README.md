@@ -1,9 +1,10 @@
 # React Customer Dashboard App Using ReactJs
 
-- The Movie Insights App, built on ReactJS, leverages the power of functional components, utilizing features such as props, useState, useEffect, JSX code, etc.
-- This app allows users to search for movies by entering their names, providing an interactive and engaging experience.
+- Experience efficient customer management with the Customer Dashboard App, leveraging ReactJS to streamline data handling and provide an engaging interface.
+- Built on ReactJS, this app simplifies customer management. View, add, and edit customer details seamlessly using props, useState, useEffect, and fetch.
+- Enjoy an interactive interface with real-time updates. React-icons enhance the visual appeal, while useEffect keeps data synchronized for a smooth and dynamic user experience.
 
-Live Site Link: https://react-movie-insights-app.netlify.app/
+Live Site Link: https://react-customer-dashboard-app.netlify.app/
 
 ## Steps to follow
 
